@@ -1,0 +1,44 @@
+Player Asserts:
+
+Website:
+https://opengameart.org/content/animated-top-down-survivor-player
+Creator:
+Riley Gombart
+
+Muzzle Flashes:
+
+Webiste:
+https://opengameart.org/content/16-toon-muzzle-flash
+Creator:
+zisongbr
+
+Bullet:
+
+Website:
+https://opengameart.org/content/bullet-collection-2-m484-games
+http://m484games.ucoz.com/
+Creator:
+Master484
+
+Turret:
+
+Website:
+https://opengameart.org/content/scifi-rotating-wall-turret
+Creator:
+tebruno99
+
+Heart:
+https://opengameart.org/content/pixel-hearts
+Creator:
+TokyoGeisha
+Nikita_Sadkov
+
+Concrete:
+https://opengameart.org/content/seamless-concrete-tiles
+Creator:
+p0ss
+
+Floor:
+https://opengameart.org/content/even-grey-stone-tile-floor-256px
+Creator:
+Tiziana
